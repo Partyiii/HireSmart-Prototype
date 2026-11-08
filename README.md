@@ -25,3 +25,7 @@ An automated hiring portal prototype designed to streamline the recruitment proc
 *   Instant Auto-Email generation.
 *   Visual Hiring Funnel (Kanban Board).
 *   Dummy AI Resume Scoring for candidate ranking.
+## 📁 Project Deliverables
+* [Download Presentation (PDF)](HireSmart%20Prototype%20Presentation.pdf)
+* [Download PRD Document (Word)](Hiresmart%20PRD.docx)
+* [View Wireframe Design](Hiresmart%20Wireframe.png)
